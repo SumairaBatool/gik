@@ -1,0 +1,27 @@
+There are 4 different dashboards
+--------------------------------
+
+Admin dashboard 
+
+admin@demo.com
+tea123
+--------------------------------
+
+Teacher dashboard 
+
+teacher@demo.com
+tea123
+
+----------------------------------
+
+Student dashboard 
+
+student@demo.com
+stu
+
+----------------------------------
+
+Parent dashboard 
+
+Parent@demo.com
+par
